@@ -1,0 +1,10 @@
+E:\SrcVisualEstudio\ProyectoPrueba\FichaPersonal\FichaPersonal\bin\Debug\FichaPersonal.exe.config
+E:\SrcVisualEstudio\ProyectoPrueba\FichaPersonal\FichaPersonal\bin\Debug\FichaPersonal.exe
+E:\SrcVisualEstudio\ProyectoPrueba\FichaPersonal\FichaPersonal\bin\Debug\FichaPersonal.pdb
+E:\SrcVisualEstudio\ProyectoPrueba\FichaPersonal\FichaPersonal\obj\Debug\FichaPersonal.csprojAssemblyReference.cache
+E:\SrcVisualEstudio\ProyectoPrueba\FichaPersonal\FichaPersonal\obj\Debug\FichaPersonal.Form1.resources
+E:\SrcVisualEstudio\ProyectoPrueba\FichaPersonal\FichaPersonal\obj\Debug\FichaPersonal.Properties.Resources.resources
+E:\SrcVisualEstudio\ProyectoPrueba\FichaPersonal\FichaPersonal\obj\Debug\FichaPersonal.csproj.GenerateResource.cache
+E:\SrcVisualEstudio\ProyectoPrueba\FichaPersonal\FichaPersonal\obj\Debug\FichaPersonal.csproj.CoreCompileInputs.cache
+E:\SrcVisualEstudio\ProyectoPrueba\FichaPersonal\FichaPersonal\obj\Debug\FichaPersonal.exe
+E:\SrcVisualEstudio\ProyectoPrueba\FichaPersonal\FichaPersonal\obj\Debug\FichaPersonal.pdb
